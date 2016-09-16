@@ -1,0 +1,9 @@
+ {
+    "projectId":"12345",
+    "projectName":"ePrescription",
+    "projectDescription":"Prescription drugs online & mobile",
+    "remedyNo":"CSR00001",
+    "abcidNo":"CSR99898",
+    "csr":"CSR09090",
+    "attachments":"https://aws.s3.org/kp/filexyz.doc"
+}

@@ -1,0 +1,40 @@
+{
+   "requestId":"CSR00001",
+   "assignedTo":"John Klein",
+   "organization":"Digital Group",
+   "team":"CD BIO",
+   "serviceRequested":"Enhancement",
+   "requestedBy":[
+      {
+         "id":"john123",
+         "name":"John Klein",
+         "email":"john.klein@yahoo.com",
+         "phone":"510-366-8123"
+      }
+   ],
+   "projectId":"project233",
+   "requestEvents":[
+      {
+         "requestEvent":"CSR Project Created",
+         "createdAt":"2013-01-29T08:43:00Z",
+         "timeBucket":[
+            "2013-01-29-day",
+            "2013-04-week",
+            "2013-01-month",
+            "2013-01-quarter",
+            "2013-year"
+         ]
+      },
+      {
+         "requestEvent":"Completed",
+         "createdAt":"2013-01-29T08:43:00Z",
+         "timeBucket":[
+            "2013-01-29-day",
+            "2013-04-week",
+            "2013-01-month",
+            "2013-01-quarter",
+            "2013-year"
+         ]
+      }
+   ]
+}
